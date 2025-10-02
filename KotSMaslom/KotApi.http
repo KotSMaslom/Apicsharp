@@ -1,0 +1,6 @@
+@myzgin12_HostAddress = http://localhost:5294
+
+GET {{myzgin12_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

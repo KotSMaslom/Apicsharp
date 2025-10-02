@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\supabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\supabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|c:\\users\\kot\\documents\\studystuff\\kotsmaslom\\kotsmaslom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C3A5A3-6DE0-46C7-A26B-60D7646B6263}|KotSMaslom\\KotApi.csproj|solutionrelative:kotsmaslom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\appsettings.json",
+              "RelativeDocumentMoniker": "KotSMaslom\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\appsettings.json",
+              "RelativeToolTip": "KotSMaslom\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T19:05:59.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\City.cs",
+              "RelativeDocumentMoniker": "KotSMaslom\\City.cs",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\City.cs",
+              "RelativeToolTip": "KotSMaslom\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "KotSMaslom\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\WeatherForecast.cs",
+              "RelativeToolTip": "KotSMaslom\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\User.cs",
+              "RelativeDocumentMoniker": "KotSMaslom\\User.cs",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\User.cs",
+              "RelativeToolTip": "KotSMaslom\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:56.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupaBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\SupaBaseContext.cs",
+              "RelativeDocumentMoniker": "KotSMaslom\\SupaBaseContext.cs",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\SupaBaseContext.cs",
+              "RelativeToolTip": "KotSMaslom\\SupaBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\Program.cs",
+              "RelativeDocumentMoniker": "KotSMaslom\\Program.cs",
+              "ToolTip": "C:\\Users\\Kot\\Documents\\StudyStuff\\KotSMaslom\\KotSMaslom\\Program.cs",
+              "RelativeToolTip": "KotSMaslom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:05:51.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
