@@ -1,6 +1,6 @@
-@myzgin12_HostAddress = http://localhost:5294
+@KotApi_HostAddress = http://localhost:5294
 
-GET {{myzgin12_HostAddress}}/weatherforecast/
+GET {{KotApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
